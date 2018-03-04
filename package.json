@@ -1,6 +1,6 @@
 {
   "name": "buffer-reuse-pool",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An easy way to reuse buffers without much API ceremony",
   "main": "index.js",
   "dependencies": {},
