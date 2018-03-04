@@ -6,6 +6,8 @@ An easy way to reuse buffers without much API ceremony
 npm install buffer-reuse-pool
 ```
 
+[![build status](https://travis-ci.org/mafintosh/buffer-reuse-pool.svg?branch=master)](https://travis-ci.org/mafintosh/buffer-reuse-pool)
+
 ## Usage
 
 ``` js
