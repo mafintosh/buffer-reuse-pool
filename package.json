@@ -1,0 +1,24 @@
+{
+  "name": "buffer-reuse-pool",
+  "version": "0.0.0",
+  "description": "An easy way to reuse buffers without much API ceremony",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^11.0.0",
+    "tape": "^4.9.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/buffer-reuse-pool.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/buffer-reuse-pool/issues"
+  },
+  "homepage": "https://github.com/mafintosh/buffer-reuse-pool"
+}
